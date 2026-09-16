@@ -1,0 +1,18 @@
+{
+  "name": "self-development",
+  "path": "/mnt/chengrongfeng_private/cc_dump/self-development",
+  "description": "Claude Code 自身的持续优化与演进项目",
+  "status": "active",
+  "customFields": {
+    "priority": "medium",
+    "currentPhase": "",
+    "currentTask": "",
+    "progress": "",
+    "blockers": [],
+    "nextAction": "继续推进项目",
+    "estimatedHours": "2",
+    "lastPushDate": "2026-09-16"
+  },
+  "createdAt": "2026-06-06T00:00:00.000Z",
+  "updatedAt": "2026-09-16T01:00:06.753Z"
+}
